@@ -1,1 +1,3 @@
 # calculator
+## Erster commit erstellt mit meta.ai
+Prompt: `Erstelle ein java spring-boot projekt mittels maven mit einem Controller CalcController, der einen Endpunkt /calc?term1=2&term2=3&operator=+ enthält und die Antwort als json zurückgibt { "term1": 1, "term2": 2, "operator": "+", "result": 3 }, ebenso einen CalcService, der die Berechnung durchführt. Erstelle auch Testklassen für den Controller und dem Service.`
